@@ -1,8 +1,7 @@
 /************************************************************/
 /*                                                          */
 /*  PL/0 compiler                                           */
-/*  Team Member 1: Hector Ramos, he103401@ucf.edu           */
-/*  Team Member 2: Sami Najib, sa129714@ucf.edu             */
+/*  Sami Najib, sa129714@ucf.edu                            */
 /************************************************************/
 
 
