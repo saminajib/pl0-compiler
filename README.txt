@@ -13,7 +13,7 @@
 
 ## Compilation Instructions
 
-    Compile the code in eustis using command "gcc hw4compiler.c"
+    Compile the code in terminal using command "gcc compiler.c"
 
 ---------------------------------------
 
